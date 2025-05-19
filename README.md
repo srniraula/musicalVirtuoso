@@ -12,5 +12,5 @@ And this is the interface using which we can generate new music:
 You can listen to one of the generated sample here: 
 
 <audio controls>
-  <source src="assets/audio/audio1.wav" type="audio/mpeg">
+  <source src="assets/audio/audio1.wav" type="audio/wav">
 </audio>
