@@ -9,8 +9,4 @@ And this is the interface using which we can generate new music:
 
 ![alt text](assets/images/image2.png)
 
-You can listen to one of the generated sample here: 
-
-<audio controls>
-  <source src="assets/audio/audio1.wav" type="audio/wav">
-</audio>
+You can listen to one of the generated sample by playing audio1 from assets/audio directory.
